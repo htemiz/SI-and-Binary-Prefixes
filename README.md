@@ -14,6 +14,7 @@ Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications
 
 The International System of Units (SI)
 
+<div>
 <style>
     .row {
         width: 100px;
@@ -27,33 +28,18 @@ The International System of Units (SI)
 </style>
 
 <div class="divTable" style="width: 300px; display:inline-block; ">
-    <br>
+    </br>
     <div class="row" >Symbol</div>
     <div class="row" >Symbol</div>
     <div class="row" >Symbol</div>
     <div style="padding:2px; width:100px; display:inline-block;">Name</div>
     <div style="padding:2px; width:100px; display:inline-block;">Value</div>
 
-<br>
-    <div style="padding:2px; width:75px; display:inline-block;">Y</div>
-    <div style="padding:2px; width:100px; display:inline-block;">yotto</div>
-    <div style="padding:2px; width:100px; display:inline-block;">fasdf</div>
-<br>
-    <div style="padding:2px; width:75px; display:inline-block;">Symbol</div>
-    <div style="padding:2px; width:100px; display:inline-block;">Name</div>
-    <div style="padding:2px; width:100px; display:inline-block;">Value</div>
-<br>
-    <div style="padding:2px; width:75px; display:inline-block;">Symbol</div>
-    <div style="padding:2px; width:100px; display:inline-block;">Name</div>
-    <div style="padding:2px; width:100px; display:inline-block;">Value</div>
-<br>
-    <div style="padding:2px; width:75px; display:inline-block;">Symbol</div>
-    <div style="padding:2px; width:100px; display:inline-block;">Name</div>
-    <div style="padding:2px; width:100px; display:inline-block;">Value</div>
+
 
 </div>
 
-
+</div>
 
 
 <!--
