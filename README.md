@@ -14,17 +14,17 @@ Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications
 
 The International System of Units (SI)
 
-
-.row {
-width: 100px;
-display: flex;
-flex-direction: row;
-justify-content: center;
-}
-.block {
-width: 100px;
-}
-
+<style>
+    .row {
+        width: 100px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .block {
+        width: 100px;
+    }
+</style>
 
 <div class="divTable" style="width: 300px; display:inline-block; ">
     <br>
