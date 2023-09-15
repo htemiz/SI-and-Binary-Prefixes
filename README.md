@@ -12,12 +12,25 @@ Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications
 
 ## Introduction
 
-The International System of Units (SI) 
+The International System of Units (SI)
+
+
+.row {
+width: 100px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+.block {
+width: 100px;
+}
 
 
 <div class="divTable" style="width: 300px; display:inline-block; ">
     <br>
-    <div style="padding:2px; width:75px; display:inline-block;">Symbol</div>
+    <div class="row" >Symbol</div>
+    <div class="row" >Symbol</div>
+    <div class="row" >Symbol</div>
     <div style="padding:2px; width:100px; display:inline-block;">Name</div>
     <div style="padding:2px; width:100px; display:inline-block;">Value</div>
 
