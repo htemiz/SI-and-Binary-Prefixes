@@ -1,3 +1,6 @@
+
+<div xmlns="http://www.w3.org/1999/xhtml">
+
 # SI-and-Binary-Prefixes
 Some brief information about SI and Binary Prefixes, which I cover in detail in 
 my paper entitled [___SI and Binary Prefixes: Clearing the Confusion___](https://dl.acm.org/doi/10.1145/3572027)
@@ -14,7 +17,6 @@ Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications
 
 The International System of Units (SI)
 
-<div>
 <style>
     .row {
         width: 100px;
