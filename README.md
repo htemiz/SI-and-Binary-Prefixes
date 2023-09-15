@@ -1,18 +1,4 @@
 
-<div xmlns="http://www.w3.org/1999/xhtml">
-
-<style>
-    .row {
-        width: 100px;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-    }
-    .block {
-        width: 100px;
-    }
-</style>
-
 
 
 # SI-and-Binary-Prefixes
@@ -32,19 +18,16 @@ Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications
 The International System of Units (SI)
 
 
-<div class="divTable" style="width: 300px; display:inline-block; ">
-    </br>
-    <div class="row" >Symbol</div>
-    <div class="row" >Symbol</div>
-    <div class="row" >Symbol</div>
-    <div style="padding:2px; width:100px; display:inline-block;">Name</div>
-    <div style="padding:2px; width:100px; display:inline-block;">Value</div>
+| | | |
+|--|--|--|
+|Symbol|Name|Value|
+|Y|yotto|$10^{24}$|
 
 
 
-</div>
 
-</div>
+
+
 
 
 <!--
