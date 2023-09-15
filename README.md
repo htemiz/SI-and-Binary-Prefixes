@@ -17,7 +17,6 @@ The International System of Units (SI)
 
 
 <html>
-<head>
 
 <style>
 .divTable
@@ -42,7 +41,6 @@ background-color: rgb(212, 209, 209);
 }
 </style>
 
-</head>
 <body>
 
 <div class="divTable">
