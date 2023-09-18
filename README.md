@@ -35,11 +35,11 @@ The International System of Units (SI)
 </tr>
 
 <tr>
-<td>Y</td> <td>yotta</td> <td>$10^{24}$ &nbsp; $( = ({10^{3})}^{8} )$</td> <td></td> <td>Yi</td> <td>yobi</td><td>$2^{80}$  &nbsp; $( = 2^{{10}^{8}} )$</td>
+<td>Y</td> <td>yotta</td> <td>$10^{24}$ &nbsp; $( = ({10^{3})}^{8} )$</td> <td></td> <td>Yi</td> <td>yobi</td><td>$2^{80}$  &nbsp; $( = ({2^{10})}^{8} )$</td>
 </tr>
 
 <tr>
-<td>Z</td> <td>zetta</td> <td>$10^{21}$</td> <td></td> <td>Zi</td> <td>zebi</td><td>$2^{80}$</td>
+<td>Z</td> <td>zetta</td> <td>$10^{21}$</td> <td></td> <td>Zi</td> <td>zebi</td><td>$2^{70}$</td>
 </tr>
 
 <tr>
