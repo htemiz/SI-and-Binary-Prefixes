@@ -18,9 +18,9 @@ Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications
 The International System of Units (SI)
 
 
+|--|--|--|--|--|--|--|
 |<td rowspan=2>SI Prefixes></td> | | <td rowspan=2>Binary Prefixes></td>|
-|--|--|--|--|--|--|--|
-|--|--|--|--|--|--|--|
+|Symbol|Name|Value| |Symbol|Name|Value|
 
 
 
