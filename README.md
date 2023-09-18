@@ -19,7 +19,10 @@ The International System of Units (SI)
 
 
 |--|--|--|--|--|--|--|
-|<td rowspan="2">SI Prefixes></td> | | <td rowspan="2">Binary Prefixes></td>|
+|<td rowspan=2>SI Prefixes></td> | | <td rowspan=2>Binary Prefixes></td>|
+
+
+
 |Q|quetta|$10^{30}$| | Q|quetta|$10^{30}$|
 
 
