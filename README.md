@@ -18,10 +18,20 @@ Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications
 The International System of Units (SI)
 
 
+|Symbol|Name|Value|
+|--|--|--| |--|--|--|
+
+|Deneme ||| |d |||
+|Q|quetta|$10^{30}$| | Q|quetta|$10^{30}$|
+
+
+
 
 |Symbol|Name|Value|
 |--|--|--|
-|Y|yotto|$10^{24}$|
+|Q|quetta|$10^{30}$|
+|R|ronna|$10^{27}$|
+|Y|yotta|$10^{24}$|
 |Z|zetta|$10^{21}$|
 |E|exa|$10^{18}$|
 |P|peta|$10^{15}$|
@@ -35,12 +45,14 @@ The International System of Units (SI)
 |C|centi|$10^{-2}$|
 |m|milli|$10^{-3}$|
 |µ|micro|$10^{-6}$|
-|N|nano|$10^{-9}$|
-|P|pico|$10^{-12}$|
-|F|femto|$10^{-15}$|
-|A|atto|$10^{-18}$|
-|Z|zeptto|$10^{-21}$|
-|Y|yocto|$10^{-24}$|
+|n|nano|$10^{-9}$|
+|p|pico|$10^{-12}$|
+|f|femto|$10^{-15}$|
+|a|atto|$10^{-18}$|
+|z|zepto|$10^{-21}$|
+|y|yocto|$10^{-24}$|
+|r|ronto|$10^{-27}$|
+|q|quecto|$10^{-30}$|
 
 
 
