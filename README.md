@@ -7,9 +7,7 @@ my paper entitled [___SI and Binary Prefixes: Clearing the Confusion___](https:/
 published in the [Communications of the ACM](https://cacm.acm.org/magazines/2023/8/274934-si-and-binary-prefixes-clearing-the-confusion/abstract) journal.
 
 Please refer to and cite the [___article___](https://dl.acm.org/doi/10.1145/3572027) for any information 
-provided here.
-
-A citation example (APA style) can be found below:
+provided here. A citation example (APA style) can be found below:
 
 Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications of the ACM, 66(8), 29-31.
 
@@ -30,7 +28,21 @@ The International System of Units (SI)
 
 |Q|quetta|$10^{30}$| | Q|quetta|$10^{30}$|
 
+<table>
+<caption>
+</caption>
+<tr>
+<<td colspan=2>SI Prefixes></td> <td> </td>  <td colspan=2>Binary Prefixes></td>
+</tr>
+<tr>
+<td>Symbol</td> <td>Name</td> <td>Value</td> <td></td> <td>Symbol</td> <td>Name</td><td>Value</td>
+<td>Symbol</td> <td>Name</td> <td>Value</td> <td></td> <td>Symbol</td> <td>Name</td><td>Value</td>
+</tr>
 
+
+
+
+</table>
 
 
 |Symbol|Name|Value|
@@ -48,7 +60,7 @@ The International System of Units (SI)
 |h|hecto|$10^{2}$|
 |da|deca|$10^{1}$|
 |d|deci|$10^{-1}$|
-|C|centi|$10^{-2}$|
+|c|centi|$10^{-2}$|
 |m|milli|$10^{-3}$|
 |µ|micro|$10^{-6}$|
 |n|nano|$10^{-9}$|
@@ -59,16 +71,6 @@ The International System of Units (SI)
 |y|yocto|$10^{-24}$|
 |r|ronto|$10^{-27}$|
 |q|quecto|$10^{-30}$|
-
-
-
-
-
-
-|||
-|--|--|
-|a|b|
-
 
 
 
