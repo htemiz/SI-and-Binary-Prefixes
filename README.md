@@ -13,14 +13,20 @@ Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications
 
 ## Introduction
 
-The International System of Units (SI)
 
+The International System of Units (SI) prefixes are defined to indicate multiples of a unit measurement by powers of 10. On the other hand, 
+Binary Prefixes denote multiples of a unit (very most commonly used in computer science and information technologies) by power of 2.
+
+Unfortunatelly, SI prefixes are very often **misused** to indicate to multiples of 2. Such that, a kilo (k) originally means a 1000 ($10^3$) of any unit,
+but 1024 (2^10) in computer science, although the binary prefixes have already been defined to represent multiples of two.
+
+International Electrotechnical Commission (IEC) has
 
 
 <table>
 
-<tr style="text-align: center;" align="center">
-<td colspan=3><p style="text-align: center;">SI Prefixes</p></td> <td style="width: 40px;" > &nbsp; </td>  <td colspan=3 style="text-align: center;">Binary Prefixes</td>
+<tr style="text-align: center;" >
+<td colspan=3><p style="text-align: center;">SI Prefixes</p></td> <td style="width: 40px;" > &nbsp; </td>  <td colspan=3><p style="text-align: center;">Binary Prefixes</p></td>
 </tr>
 <tr>
 <td>Symbol</td> <td>Name</td> <td>Value</td> <td></td> <td>Symbol</td> <td>Name</td><td>Value</td>
@@ -106,7 +112,7 @@ The International System of Units (SI)
 </tr>
 
 <tr>
-<td>z</td> <td>zepto</td> <td>$10^{-21"}$</td> <td></td> <td> </td> <td> </td><td> </td>
+<td>z</td> <td>zepto</td> <td>$10^{-21}$</td> <td></td> <td> </td> <td> </td><td> </td>
 </tr>
 
 <tr>
