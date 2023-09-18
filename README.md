@@ -19,7 +19,7 @@ The International System of Units (SI)
 
 <table>
 
-<tr>
+<tr style="text-align: center;">
 <td colspan=3>SI Prefixes</td> <td style="width:150px;"> &nbsp; </td>  <td colspan=3>Binary Prefixes</td>
 </tr>
 <tr>
