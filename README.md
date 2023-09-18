@@ -20,7 +20,9 @@ Binary Prefixes denote multiples of a unit (very most commonly used in computer 
 Unfortunatelly, SI prefixes are very often **misused** to indicate to multiples of 2. Such that, a kilo (k) originally means a 1000 ($10^3$) of any unit,
 but 1024 (2^10) in computer science, although the binary prefixes have already been defined to represent multiples of two.
 
-International Electrotechnical Commission (IEC) has
+So, to give a simple example: one kilobyte should mean 1000 bytes, and 1024 bytes should be indicated by kibibyte (Ki).
+
+Binary Prefixes were defined by the International Electrotechnical Commission (IEC) with IEC 60027-2 standard in 1999.
 
 
 <table>
