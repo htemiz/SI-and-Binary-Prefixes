@@ -20,6 +20,10 @@ The International System of Units (SI)
 
 |--|--|--|--|--|--|--|
 |<td colspan=2>SI Prefixes></td> | | <td colspan=2>Binary Prefixes></td>|
+
+
+
+
 |Symbol|Name|Value| |Symbol|Name|Value|
 
 
@@ -40,10 +44,10 @@ The International System of Units (SI)
 |T|tera|$10^{12}$|
 |G|giga|$10^{9}$|
 |M|mega|$10^{6}$|
-|K|kilo|$10^{3}$|
-|H|hecto|$10^{2}$|
-|Da|deca|$10^{1}$|
-|D|deci|$10^{-1}$|
+|k|kilo|$10^{3}$|
+|h|hecto|$10^{2}$|
+|da|deca|$10^{1}$|
+|d|deci|$10^{-1}$|
 |C|centi|$10^{-2}$|
 |m|milli|$10^{-3}$|
 |µ|micro|$10^{-6}$|
