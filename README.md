@@ -19,6 +19,7 @@ The International System of Units (SI)
 
 
 |--|--|--|--|--|--|--|
+|--|--|--|--|--|--|--|
 |<td rowspan=2>SI Prefixes></td> | | <td rowspan=2>Binary Prefixes></td>|
 
 
