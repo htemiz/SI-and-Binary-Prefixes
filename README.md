@@ -20,7 +20,7 @@ The International System of Units (SI)
 <table>
 
 <tr style="text-align: center;">
-<td colspan=3 style="text-align: center;">SI Prefixes</td> <td style="width:150px;"> &nbsp; </td>  <td colspan=3 style="text-align: center;">Binary Prefixes</td>
+<td colspan=3 style="text-align: center;" align="center">SI Prefixes</td> <td style="width:150px;"> &nbsp; </td>  <td colspan=3 style="text-align: center;">Binary Prefixes</td>
 </tr>
 <tr>
 <td>Symbol</td> <td>Name</td> <td>Value</td> <td></td> <td>Symbol</td> <td>Name</td><td>Value</td>
