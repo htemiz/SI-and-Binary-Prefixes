@@ -16,77 +16,110 @@ Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications
 The International System of Units (SI)
 
 
-|--|--|--|--|--|--|--|
-|<td colspan=2>SI Prefixes></td> | | <td colspan=2>Binary Prefixes></td>|
-
-
-
-
-|Symbol|Name|Value| |Symbol|Name|Value|
-
-
-
-|Q|quetta|$10^{30}$| | Q|quetta|$10^{30}$|
 
 <table>
-<caption>
-</caption>
+
 <tr>
-<<td colspan=3>SI Prefixes></td> <td> </td>  <td colspan=3>Binary Prefixes></td>
+<td colspan=3>SI Prefixes></td> <td> </td>  <td colspan=3>Binary Prefixes></td>
 </tr>
 <tr>
 <td>Symbol</td> <td>Name</td> <td>Value</td> <td></td> <td>Symbol</td> <td>Name</td><td>Value</td>
 </tr>
 
 <tr>
-<td>Q</td> <td>quetta</td> <td>$10^{30}$</td> <td></td> <td>Symbol</td> <td>Name</td><td>Value</td>
+<td>Q</td> <td>quetta</td> <td>$10^{30}$</td> <td></td> <td> </td> <td> </td><td> </td>
 </tr>
 
 <tr>
-<td>Symbol</td> <td>Name</td> <td>Value</td> <td></td> <td>Symbol</td> <td>Name</td><td>Value</td>
+<td>R</td> <td>ronna</td> <td>$10^{27}$</td> <td></td> <td> </td> <td> </td><td> </td>
 </tr>
 
 <tr>
-<td>Symbol</td> <td>Name</td> <td>Value</td> <td></td> <td>Symbol</td> <td>Name</td><td>Value</td>
+<td>Y</td> <td>yotta</td> <td>$10^{24}$</td> <td></td> <td>Yi</td> <td>yobi</td><td>$2^{80}$</td>
 </tr>
 
 <tr>
-<td>Symbol</td> <td>Name</td> <td>Value</td> <td></td> <td>Symbol</td> <td>Name</td><td>Value</td>
+<td>Z</td> <td>zetta</td> <td>$10^{21}$</td> <td></td> <td>Zi</td> <td>zebi</td><td>$2^{80}$</td>
 </tr>
 
 <tr>
-<td>Symbol</td> <td>Name</td> <td>Value</td> <td></td> <td>Symbol</td> <td>Name</td><td>Value</td>
+<td>E</td> <td>exa</td> <td>$10^{18}$</td> <td></td> <td>Ei</td> <td>exbi</td><td>$2^{60}$</td>
 </tr>
 
+<tr>
+<td>P</td> <td>peta</td> <td>$10^{15}$</td> <td></td> <td>Pi</td> <td>pebi</td><td>$2^{50}$</td>
+</tr>
 
-|Symbol|Name|Value|
-|--|--|--|
-||||
-|R|ronna|$10^{27}$|
-|Y|yotta|$10^{24}$|
-|Z|zetta|$10^{21}$|
-|E|exa|$10^{18}$|
-|P|peta|$10^{15}$|
-|T|tera|$10^{12}$|
-|G|giga|$10^{9}$|
-|M|mega|$10^{6}$|
-|k|kilo|$10^{3}$|
-|h|hecto|$10^{2}$|
-|da|deca|$10^{1}$|
-|d|deci|$10^{-1}$|
-|c|centi|$10^{-2}$|
-|m|milli|$10^{-3}$|
-|µ|micro|$10^{-6}$|
-|n|nano|$10^{-9}$|
-|p|pico|$10^{-12}$|
-|f|femto|$10^{-15}$|
-|a|atto|$10^{-18}$|
-|z|zepto|$10^{-21}$|
-|y|yocto|$10^{-24}$|
-|r|ronto|$10^{-27}$|
-|q|quecto|$10^{-30}$|
+<tr>
+<td>T</td> <td>tera</td> <td>$10^{12}$</td> <td></td> <td>Ti</td> <td>tebi</td><td>$2^{40}$</td>
+</tr>
 
+<tr>
+<td>G</td> <td>giga</td> <td>$10^{9}$</td> <td></td> <td>Gi</td> <td>gibi</td><td>$2^{30}$</td>
+</tr>
 
+<tr>
+<td>M</td> <td>mega</td> <td>$10^{6}$</td> <td></td> <td>Mi</td> <td>mebi</td><td>$2^{20}$</td>
+</tr>
+
+<tr>
+<td>k</td> <td>kilo</td> <td>$10^{3}$</td> <td></td> <td>Ki</td> <td>kibi</td><td>$2^{10}$</td>
+</tr>
+
+<tr>
+<td>h</td> <td>hecto</td> <td>$10^{2}$</td> <td></td> <td> </td> <td> </td><td> </td>
+</tr>
+
+<tr>
+<td>da</td> <td>deca</td> <td>$10^{1}$</td> <td></td> <td> </td> <td> </td><td> </td>
+</tr>
+
+<tr>
+<td>d</td> <td>deci</td> <td>$10^{-1}$</td> <td></td> <td> </td> <td> </td><td> </td>
+</tr>
+
+<tr>
+<td>c</td> <td>centi</td> <td>$10^{-2}$</td> <td></td> <td> </td> <td> </td><td> </td>
+</tr>
+
+<tr>
+<td>m</td> <td>milli</td> <td>$10^{-3}$</td> <td></td> <td> </td> <td> </td><td> </td>
+</tr>
+<tr>
+<td>µ</td> <td>micro</td> <td>$10^{-6}$</td> <td></td> <td> </td> <td> </td><td> </td>
+</tr>
+
+<tr>
+<td>n</td> <td>nano</td> <td>$10^{-9}$</td> <td></td> <td> </td> <td> </td><td> </td>
+</tr>
+
+<tr>
+<td>p</td> <td>pico</td> <td>$10^{-12}$</td> <td></td> <td> </td> <td> </td><td> </td>
+</tr>
+
+<tr>
+<td>f</td> <td>femto</td> <td>$10^{-15}$</td> <td></td> <td> </td> <td> </td><td> </td>
+</tr>
+
+<tr>
+<td>a</td> <td>atto</td> <td>$10^{-18}$</td> <td></td> <td> </td> <td> </td><td> </td>
+</tr>
+
+<tr>
+<td>z</td> <td>zepto</td> <td>$10^{-21"}$</td> <td></td> <td> </td> <td> </td><td> </td>
+</tr>
+
+<tr>
+<td>y</td> <td>yocto</td> <td>$10^{-24}$</td> <td></td> <td> </td> <td> </td><td> </td>
+</tr>
+
+<tr>
+<td>r</td> <td>ronto</td> <td>$10^{-27}$</td> <td></td> <td> </td> <td> </td><td> </td>
+</tr>
+
+<tr>
+<td>q</td> <td>quecto</td> <td>$10^{-30}$</td> <td></td> <td> </td> <td> </td><td> </td>
+</tr>
 
 
 </table>
