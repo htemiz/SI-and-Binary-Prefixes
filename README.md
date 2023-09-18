@@ -35,35 +35,35 @@ The International System of Units (SI)
 </tr>
 
 <tr>
-<td>Y</td> <td>yotta</td> <td><b>$$10^{24}$$</b> &nbsp; $( = ({10^{3})}^{8} )$</td> <td></td> <td>Yi</td> <td>yobi</td><td>$2^{80}$  &nbsp; $( = ({2^{10})}^{8} )$</td>
+<td>Y</td> <td>yotta</td> <td>$10^{24}$ &nbsp; $( = ({10^{3})}^{8} )$</td> <td></td> <td>Yi</td> <td>yobi</td><td>$2^{80}$  &nbsp; $( = ({2^{10})}^{8} )$</td>
 </tr>
 
 <tr>
-<td>Z</td> <td>zetta</td> <td>$10^{21}$</td> <td></td> <td>Zi</td> <td>zebi</td><td>$2^{70}$</td>
+<td>Z</td> <td>zetta</td> <td>$10^{21}$ &nbsp; $( = ({10^{3})}^{7} )$</td> <td></td> <td>Zi</td> <td>zebi</td><td>$2^{70}$  &nbsp; $( = ({2^{10})}^{7} )$</td>
 </tr>
 
 <tr>
-<td>E</td> <td>exa</td> <td>$10^{18}$</td> <td></td> <td>Ei</td> <td>exbi</td><td>$2^{60}$</td>
+<td>E</td> <td>exa</td> <td>$10^{18}$ &nbsp; $( = ({10^{3})}^{6} )$</td> <td></td> <td>Ei</td> <td>exbi</td><td>$2^{60}$  &nbsp; $( = ({2^{10})}^{6} )$</td>
 </tr>
 
 <tr>
-<td>P</td> <td>peta</td> <td>$10^{15}$</td> <td></td> <td>Pi</td> <td>pebi</td><td>$2^{50}$</td>
+<td>P</td> <td>peta</td> <td>$10^{15}$ &nbsp; $( = ({10^{3})}^{5} )$</td> <td></td> <td>Pi</td> <td>pebi</td><td>$2^{50}$  &nbsp; $( = ({2^{10})}^{5} )$</td>
 </tr>
 
 <tr>
-<td>T</td> <td>tera</td> <td>$10^{12}$</td> <td></td> <td>Ti</td> <td>tebi</td><td>$2^{40}$</td>
+<td>T</td> <td>tera</td> <td>$10^{12}$ &nbsp; $( = ({10^{3})}^{4} )$</td> <td></td> <td>Ti</td> <td>tebi</td><td>$2^{40}$  &nbsp; $( = ({2^{10})}^{4} )$</td>
 </tr>
 
 <tr>
-<td>G</td> <td>giga</td> <td>$10^{9}$</td> <td></td> <td>Gi</td> <td>gibi</td><td>$2^{30}$</td>
+<td>G</td> <td>giga</td> <td>$10^{9}$ &nbsp; $( = ({10^{3})}^{3} )$</td> <td></td> <td>Gi</td> <td>gibi</td><td>$2^{30}$  &nbsp; $( = ({2^{10})}^{3} )$</td>
 </tr>
 
 <tr>
-<td>M</td> <td>mega</td> <td>$10^{6}$</td> <td></td> <td>Mi</td> <td>mebi</td><td>$2^{20}$</td>
+<td>M</td> <td>mega</td> <td>$10^{6}$ &nbsp; $( = ({10^{3})}^{2} )$</td> <td></td> <td>Mi</td> <td>mebi</td><td>$2^{20}$  &nbsp; $( = ({2^{10})}^{2} )$</td>
 </tr>
 
 <tr>
-<td>k</td> <td>kilo</td> <td>$10^{3}$</td> <td></td> <td>Ki</td> <td>kibi</td><td>$2^{10}$</td>
+<td>k</td> <td>kilo</td> <td>$10^{3}$ &nbsp; $( = ({10^{3})}^{1} )$</td> <td></td> <td>Ki</td> <td>kibi</td><td>$2^{10}$  &nbsp; $( = ({2^{10})}^{1} )$</td>
 </tr>
 
 <tr>
