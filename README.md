@@ -35,7 +35,7 @@ The International System of Units (SI)
 </tr>
 
 <tr>
-<td>Y</td> <td>yotta</td> <td>$10^{24}$</td> <td></td> <td>Yi</td> <td>yobi</td><td>$2^{80}$</td>
+<td>Y</td> <td>yotta</td> <td>$10^{24}$</td> <td></td> <td>Yi</td> <td>yobi</td><td>$2^{80}  = 2^{10}^{8}$</td>
 </tr>
 
 <tr>
