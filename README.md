@@ -19,6 +19,16 @@ Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications
 The International System of Units (SI) prefixes are defined to indicate multiples of a unit measurement by powers of 10. On the other hand, 
 Binary Prefixes denote multiples of a unit (very commonly used in computer science and information technologies) by power of 2.
 
+
+Immediately after the article was accepted, in December 2022, BIPM (Bureau international Des poids et mesures) 
+added the following prefixes to the SI system in its 9th SI brochure and NIST: quetta(Q) for $10^30$, 
+ronna (R) for $10^27$, ronto (r) for $10^-27$ and quecto (q) for $10^-30$
+https://www.bipm.org/en/publications/si-brochure
+
+
+
+
+
 Unfortunatelly, SI prefixes are very often **misused** to indicate to multiples of 2. Such that, a kilo (k) originally means a 1000 ($10^3$) of any unit,
 but 1024 (2^10) in computer science, although the binary prefixes have already been defined to represent multiples of two.
 
