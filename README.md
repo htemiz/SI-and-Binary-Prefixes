@@ -11,7 +11,7 @@ journal, and some <ins>corrections</ins> and <ins>additions</ins>.
 Please refer to and cite the [___article___](https://dl.acm.org/doi/10.1145/3572027) for any information 
 provided here. A citation example (APA style) can be found below:
 
-*Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications of the ACM, 66(8), 29-31.*
+***Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications of the ACM, 66(8), 29-31.***
 
 ## Introduction
 
