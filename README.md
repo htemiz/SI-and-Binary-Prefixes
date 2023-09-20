@@ -15,7 +15,7 @@ Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications
 
 
 The International System of Units (SI) prefixes are defined to indicate multiples of a unit measurement by powers of 10. On the other hand, 
-Binary Prefixes denote multiples of a unit (very most commonly used in computer science and information technologies) by power of 2.
+Binary Prefixes denote multiples of a unit (very commonly used in computer science and information technologies) by power of 2.
 
 Unfortunatelly, SI prefixes are very often **misused** to indicate to multiples of 2. Such that, a kilo (k) originally means a 1000 ($10^3$) of any unit,
 but 1024 (2^10) in computer science, although the binary prefixes have already been defined to represent multiples of two.
