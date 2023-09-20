@@ -2,9 +2,11 @@
 
 
 # SI-and-Binary-Prefixes
-Some brief information about SI and Binary Prefixes, which I cover in detail in 
-my paper entitled [___SI and Binary Prefixes: Clearing the Confusion___](https://dl.acm.org/doi/10.1145/3572027)
-published in the [Communications of the ACM](https://cacm.acm.org/magazines/2023/8/274934-si-and-binary-prefixes-clearing-the-confusion/abstract) journal.
+This page contains a very brief summary of the article,
+[___SI and Binary Prefixes: Clearing the Confusion___](https://dl.acm.org/doi/10.1145/3572027)
+published in the 
+[Communications of the ACM](https://cacm.acm.org/magazines/2023/8/274934-si-and-binary-prefixes-clearing-the-confusion/abstract)
+journal, and some corrections and additions.
 
 Please refer to and cite the [___article___](https://dl.acm.org/doi/10.1145/3572027) for any information 
 provided here. A citation example (APA style) can be found below:
