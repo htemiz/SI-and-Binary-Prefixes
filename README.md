@@ -20,10 +20,11 @@ The International System of Units (SI) prefixes are defined to indicate multiple
 Binary Prefixes denote multiples of a unit (very commonly used in computer science and information technologies) by power of 2.
 
 
-Immediately after the article was accepted, in December 2022, BIPM (Bureau international Des poids et mesures) 
-added the following prefixes to the SI system in its 9th SI brochure and NIST: quetta(Q) for $10^30$, 
-ronna (R) for $10^27$, ronto (r) for $10^-27$ and quecto (q) for $10^-30$
-https://www.bipm.org/en/publications/si-brochure
+Immediately after the article was accepted, in December 2022, [BIPM]8https://www.bipm.org/en/publications/si-brochure)
+(Bureau international Des poids et mesures) 
+added the following prefixes to the SI system in its 9$^th$ SI brochure: quetta(Q) for $10^{30}$, 
+ronna (R) for $10^{27}$, ronto (r) for $10^{-27}$ and quecto (q) for $10^{-30}$
+
 
 
 
