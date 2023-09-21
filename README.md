@@ -2,11 +2,12 @@
 
 
 # SI-and-Binary-Prefixes
-This page contains a very brief summary of the article,
+This page contains the information about the current **SI** and **Binary** prefixes, and some
+<ins>corrections</ins> to typographical errata and <ins>additions</ins> to the article,
 [___SI and Binary Prefixes: Clearing the Confusion___](https://dl.acm.org/doi/10.1145/3572027)
 published in the 
 [Communications of the ACM](https://cacm.acm.org/magazines/2023/8/274934-si-and-binary-prefixes-clearing-the-confusion/abstract)
-journal, and some <ins>corrections</ins> to typographical errata and <ins>additions</ins>.
+journal.
 
 Please refer to and cite the [___article___](https://dl.acm.org/doi/10.1145/3572027) for any information 
 provided here. A citation example (APA style) can be found below:
