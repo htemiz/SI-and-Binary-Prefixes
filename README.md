@@ -3,7 +3,7 @@
 
 # SI-and-Binary-Prefixes
 This page presents the current **SI** and **Binary** prefixes,  and some <ins>additions</ins> along with 
-<ins>corrections</ins> to typographical errata occurred in the article,
+<ins>corrections</ins> to the typographical errata occurred in the article,
 [___SI and Binary Prefixes: Clearing the Confusion___](https://dl.acm.org/doi/10.1145/3572027)
 published in the 
 [Communications of the ACM](https://cacm.acm.org/magazines/2023/8/274934-si-and-binary-prefixes-clearing-the-confusion/abstract)
