@@ -18,13 +18,12 @@ provided here. A citation example (APA) is given below:
 ### Some Brief Info 
 
 
-The International System of Units (SI) prefixes are defined to indicate multiples of a unit measurement by powers of 10.
-On the other hand, Binary Prefixes denote multiples of a unit (very commonly used in computer science and information
-technologies) by power of 2.
+The International System of Units (SI) prefixes are defined to indicate multiples of a unit measurement 
+by powers of 10. On the other hand, Binary Prefixes denote multiples of a unit by power of 2. 
 
 
 Unfortunatelly, SI prefixes are prevalently **misused** to indicate to multiples of 2. Such that, a kilo (k) 
-originally means 1000 ($10^3$) of any unit, commonly used to denote but 1024 (2^10) in computer science,
+originally means 1000 ($10^3$) of any unit, but used or known to denote but 1024 (2^10) in computer science,
 although the binary prefixes to represent multiples of two have already been defined by the International 
 Electrotechnical Commission (IEC) with IEC 60027-2 standard in 1999.
 
