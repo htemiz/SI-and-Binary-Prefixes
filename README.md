@@ -13,30 +13,39 @@ provided here. A citation example (APA style) can be found below:
 
 ***Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications of the ACM, 66(8), 29-31.***
 
-## Introduction
+
+### Some Brief Info 
 
 
-The International System of Units (SI) prefixes are defined to indicate multiples of a unit measurement by powers of 10. On the other hand, 
-Binary Prefixes denote multiples of a unit (very commonly used in computer science and information technologies) by power of 2.
+The International System of Units (SI) prefixes are defined to indicate multiples of a unit measurement by powers of 10.
+On the other hand, Binary Prefixes denote multiples of a unit (very commonly used in computer science and information
+technologies) by power of 2.
 
 
-Just immediately after the article was accepted, in December 2022,
-[BIPM](https://www.bipm.org/en/publications/si-brochure)
-(Bureau international Des poids et mesures) added the following prefixes to the SI system in its
-$9^{th}$ SI Brochure: quetta (Q) for $10^{30}$, ronna (R) for $10^{27}$, ronto (r) for $10^{-27}$ and
-quecto (q) for $10^{-30}$
-
-
-
-
-
-
-Unfortunatelly, SI prefixes are very often **misused** to indicate to multiples of 2. Such that, a kilo (k) originally means a 1000 ($10^3$) of any unit,
-but 1024 (2^10) in computer science, although the binary prefixes have already been defined to represent multiples of two.
+Unfortunatelly, SI prefixes are very often **misused** to indicate to multiples of 2. Such that, a kilo (k) 
+originally means a 1000 ($10^3$) of any unit, but 1024 (2^10) in computer science, although the binary prefixes 
+have already been defined to represent multiples of two.
 
 So, to give a simple example: one kilobyte should mean 1000 bytes, and 1024 bytes should be indicated by kibibyte (Ki).
 
 Binary Prefixes were defined by the International Electrotechnical Commission (IEC) with IEC 60027-2 standard in 1999.
+
+
+
+### Current SI and Binary Prefixes
+
+Just immediately after the article was accepted, in December 2022,
+[BIPM](https://www.bipm.org/en/publications/si-brochure)
+(Bureau international Des poids et mesures) added the following prefixes to the SI system in
+$9^{th}$ Brochure: quetta (Q) for $10^{30}$, ronna (R) for $10^{27}$, ronto (r) for $10^{-27}$ and
+quecto (q) for $10^{-30}$
+
+The table below lists together the current SI and Binary prefixes.
+
+Additionally, some symbols of SI prefixes (submultiples of 10) were mistakenly
+capitalized during the preparation of the article for publication. 
+Their correct versions are also given in the table.
+
 
 
 <table>
@@ -145,6 +154,8 @@ Binary Prefixes were defined by the International Electrotechnical Commission (I
 
 
 </table>
+
+
 
 
 
