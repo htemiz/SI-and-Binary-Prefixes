@@ -28,21 +28,20 @@ although the binary prefixes to represent multiples of two have already been def
 Electrotechnical Commission (IEC) with IEC 60027-2 standard in 1999.
 
 So, to give a simple example: one kilobyte (kB) should mean 1000 bytes, and 1024 bytes should be indicated by
-kibibyte (KiB).
-
-Binary Prefixes were defined 
-
+kibibyte (KiB). For additional information, please refer to the
+[___article___](https://dl.acm.org/doi/10.1145/3572027). However, the following section provides
+the up-to-date information on the prefixes in both systems.
 
 
 ### Current SI and Binary Prefixes
 
 Just immediately after the article was accepted, in December 2022,
 [BIPM](https://www.bipm.org/en/publications/si-brochure)
-(Bureau international Des poids et mesures) added the following prefixes to the SI system in
-$9^{th}$ Brochure: quetta (Q) for $10^{30}$, ronna (R) for $10^{27}$, ronto (r) for $10^{-27}$ and
+(Bureau international Des poids et mesures) added the following four prefixes to the SI system in
+$9^{th}$ SI Brochure: quetta (Q) for $10^{30}$, ronna (R) for $10^{27}$, ronto (r) for $10^{-27}$ and
 quecto (q) for $10^{-30}$
 
-The table below lists together the current SI and Binary prefixes.
+The table below lists the current SI and Binary prefixes together.
 
 Additionally, some symbols of SI prefixes (submultiples of 10) were mistakenly
 capitalized during the preparation of the article for publication. 
