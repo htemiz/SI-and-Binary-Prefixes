@@ -2,15 +2,15 @@
 
 
 # SI-and-Binary-Prefixes
-This page contains the information about the current **SI** and **Binary** prefixes, and some
-<ins>corrections</ins> to typographical errata and <ins>additions</ins> to the article,
+This page presents the current **SI** and **Binary** prefixes,  and some <ins>additions</ins> along with 
+<ins>corrections</ins> to typographical errata occurred in the article,
 [___SI and Binary Prefixes: Clearing the Confusion___](https://dl.acm.org/doi/10.1145/3572027)
 published in the 
 [Communications of the ACM](https://cacm.acm.org/magazines/2023/8/274934-si-and-binary-prefixes-clearing-the-confusion/abstract)
 journal.
 
 Please refer to and cite the [___article___](https://dl.acm.org/doi/10.1145/3572027) for any information 
-provided here. A citation example (APA style) can be found below:
+provided here. A citation example (APA) is given below:
 
 ***Temiz, H. (2023). SI and Binary Prefixes: Clearing the Confusion. Communications of the ACM, 66(8), 29-31.***
 
@@ -23,13 +23,15 @@ On the other hand, Binary Prefixes denote multiples of a unit (very commonly use
 technologies) by power of 2.
 
 
-Unfortunatelly, SI prefixes are very often **misused** to indicate to multiples of 2. Such that, a kilo (k) 
-originally means a 1000 ($10^3$) of any unit, but 1024 (2^10) in computer science, although the binary prefixes 
-have already been defined to represent multiples of two.
+Unfortunatelly, SI prefixes are prevalently **misused** to indicate to multiples of 2. Such that, a kilo (k) 
+originally means 1000 ($10^3$) of any unit, commonly used to denote but 1024 (2^10) in computer science,
+although the binary prefixes to represent multiples of two have already been defined by the International 
+Electrotechnical Commission (IEC) with IEC 60027-2 standard in 1999.
 
-So, to give a simple example: one kilobyte should mean 1000 bytes, and 1024 bytes should be indicated by kibibyte (Ki).
+So, to give a simple example: one kilobyte (kB) should mean 1000 bytes, and 1024 bytes should be indicated by
+kibibyte (KiB).
 
-Binary Prefixes were defined by the International Electrotechnical Commission (IEC) with IEC 60027-2 standard in 1999.
+Binary Prefixes were defined 
 
 
 
