@@ -25,7 +25,7 @@ by powers of 10. On the other hand, Binary Prefixes denote multiples of a unit b
 Unfortunatelly, SI prefixes are prevalently **misused** to indicate to multiples of 2. Such that, a kilo (k) 
 originally means 1000 ($10^3$) of any unit, but used or known to denote but 1024 (2^10) in computer science,
 although the binary prefixes to represent multiples of two have already been defined by the International 
-Electrotechnical Commission (IEC) with IEC 60027-2 standard in 1999.
+Electrotechnical Commission (IEC) with IEC 60027-2 standard issued in 1999.
 
 So, to give a simple example: one kilobyte (kB) should mean 1000 bytes, and 1024 bytes should be indicated by
 kibibyte (KiB). For additional information, please refer to the
@@ -38,7 +38,7 @@ the up-to-date information on the prefixes in both systems.
 Just immediately after the article was accepted, in December 2022,
 [BIPM](https://www.bipm.org/en/publications/si-brochure)
 (Bureau international Des poids et mesures) added the following four prefixes to the SI system in
-$9^{th}$ SI Brochure: quetta (Q) for $10^{30}$, ronna (R) for $10^{27}$, ronto (r) for $10^{-27}$ and
+$9^{th}$ [SI Brochure](https://www.bipm.org/en/publications/si-brochure): quetta (Q) for $10^{30}$, ronna (R) for $10^{27}$, ronto (r) for $10^{-27}$ and
 quecto (q) for $10^{-30}$
 
 The table below lists the current SI and Binary prefixes together.
