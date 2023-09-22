@@ -38,7 +38,8 @@ the up-to-date information on the prefixes in both systems.
 Just immediately after the article was accepted, in December 2022,
 [BIPM](https://www.bipm.org/en/publications/si-brochure)
 (Bureau international Des poids et mesures) added the following four prefixes to the SI system in
-$9^{th}$ [SI Brochure](https://www.bipm.org/en/publications/si-brochure): quetta (Q) for $10^{30}$, ronna (R) for $10^{27}$, ronto (r) for $10^{-27}$ and
+$9^{th}$ [SI Brochure](https://www.bipm.org/en/publications/si-brochure): quetta (Q) for $10^{30}$,
+ronna (R) for $10^{27}$, ronto (r) for $10^{-27}$ and
 quecto (q) for $10^{-30}$
 
 The table below lists the current SI and Binary prefixes together.
@@ -158,6 +159,7 @@ Their correct versions are also given in the table.
 
 
 
+Please feel free to contact me at [htemiz@artvin.edu.tr](mailto:htemiz@artvin.edu.tr) for further information and comments.
 
 
 
